@@ -1,0 +1,9 @@
+# vim buffers
+*.swp
+*.swo
+
+# python cache
+*.pyc
+
+# venv installation
+*_venv
