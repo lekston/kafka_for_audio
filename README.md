@@ -15,11 +15,11 @@ NOTE: this also removes all events that remained in any used kafka topics.
 ### Demo run
 Open 2 terminals, in the first one start:
 ```
-python3 async_consumer.py
+python3 ./src/async_consumer.py
 ```
 In the other run:
 ```
-python3 producer.py
+python3 ./src/producer.py
 ```
 
 ## Docs
